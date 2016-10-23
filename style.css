@@ -6,7 +6,9 @@ body {
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
-
+.contrainer-info{
+      top: -362px !important;
+}
 #canvas, .background-svg, .container-info {
   position: absolute;
   top: -354px;
