@@ -9,7 +9,7 @@ body {
 
 #canvas, .background-svg, .container-info {
   position: absolute;
-  top: -40%;
+  top: -354px;
   left: 0;
   width: 100%;
   height: 100%;
